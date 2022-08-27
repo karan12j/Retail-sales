@@ -1,13 +1,5 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Apr 17 14:54:25 2021
 
-@author: anmol
-"""
-################################### Important Point ##############################
-#################################
-###    Please add debug = True in line 399 if you are running the code using Anaconda Prompt 
-###    and want to autoupdate the changes while making the changes.  
+ 
 
 import dash
 import dash_html_components as html
